@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+.main{
+	background-color:#F1F1F1;
+	padding: 50%;
+	width:100%;
+	box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+img{
+	width:80%;
+	height:80%;
+}
+
+
+
+
+
+button{
+	background-color:#FE625A;
+	color:white;
+	padding:center;
+	border-radius:10px;
+	border-color:#FE625A;
+}
